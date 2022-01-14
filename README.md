@@ -27,7 +27,7 @@ target="_blank"></a>
 target="_blank"></a> 
   <a href = "mailto:matth1337@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" 
 target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/matheus-henrique-abreu-de-freitas-191473227"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
+  <a href = "https://steamcommunity.com/profiles/76561197990135251"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
 target="_blank"></a>
   
   
